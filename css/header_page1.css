@@ -1,0 +1,170 @@
+@font-face {
+  font-family: refo;
+  src: url(../font/refo.otf);
+}
+body {
+  background-image: url(../img/ajy_hadr.png);
+  background-color: #1E1E1E;;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 1000px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+body .menu {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+body .cnopci_menu {
+  font-family: refo;
+  text-align: center;
+  margin-right: 30%;
+}
+body .cnopci_menu .cnopci1 {
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: none;
+  margin-right: 40px;
+  color: aliceblue;
+}
+body .cnopci_menu .cnopci1:hover {
+  transition: 1s;
+  color: red;
+}
+body .content_centr {
+  margin-top: 168px;
+}
+body .content_centr .nema {
+  font-family: refo;
+  text-align: center;
+  font-style: normal;
+  font-size: 150px;
+  font-weight: 700;
+  color: #DB3138;
+}
+body .content_centr .nema_podjerc {
+  text-align: center;
+}
+body .content_centr .nema_podjerc .podjerc {
+  margin-right: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body .content_centr .text {
+  text-align: center;
+  font-family: refo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  color: #fff;
+}
+body .cnopca_yslugi {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+body .cnopca_yslugi .fon {
+  position: relative;
+  z-index: 1;
+  left: 18px;
+  width: 110px;
+  height: 61px;
+  background-color: #DB3138;
+}
+body .cnopca_yslugi .text_yslugi {
+  position: relative;
+  text-decoration: none;
+  z-index: 2;
+  left: -48px;
+  bottom: -12px;
+  font-family: refo;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  color: #fff;
+  letter-spacing: 0.05em;
+}
+body .table {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  text-transform: uppercase;
+}
+body .table .secxi1 {
+  text-align: center;
+  border-top: solid 1px #fff;
+  border-right: solid 1px #fff;
+  border-bottom: solid 1px #fff;
+  width: 640px;
+  height: 213px;
+}
+body .table .table_name {
+  text-align: center;
+  font-family: refo;
+  font-style: normal;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+body .table .table_text {
+  font-size: 24px;
+  color: #DB3138;
+}
+body .table .secxi2 {
+  text-align: center;
+  border: solid 1px #fff;
+  width: 640px;
+  height: 213px;
+}
+body .table .table_name {
+  text-align: center;
+  font-family: refo;
+  font-style: normal;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+body .table .br {
+  margin-top: 15px;
+}
+body .table .table_text {
+  font-size: 24px;
+  color: #DB3138;
+}
+body .table .secxi3 {
+  text-align: center;
+  border-top: solid 1px #fff;
+  border-bottom: solid 1px #fff;
+  width: 640px;
+  height: 213px;
+}
+body .table .table_name {
+  text-align: center;
+  font-family: refo;
+  font-style: normal;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+body .table .table_text {
+  font-family: refo;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 140%;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}/*# sourceMappingURL=header_page1.css.map */
